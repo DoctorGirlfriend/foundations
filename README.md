@@ -1,3 +1,0 @@
-Practicing Odin's foundations in CSS but uh....
-
-about that
