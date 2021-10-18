@@ -8,12 +8,12 @@
 }
 
 #two {
-color: #0000ff;
-font-size: 36px;
+  color: #0000ff;
+  font-size: 36px;
 }
 
 #four {
-background-color: hsl (120, 100%, 75%);
-font-size: 24 px;
-font-weight: bold;
+  background-color: hsl (120, 100%, 75%);
+  font-size: 24 px;
+  font-weight: bold;
 }
